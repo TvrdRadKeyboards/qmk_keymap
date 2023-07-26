@@ -1,4 +1,3 @@
-SRC += source.c
 # MCU name
 MCU = atmega32u4
 
